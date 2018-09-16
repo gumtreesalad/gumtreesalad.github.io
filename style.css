@@ -8,10 +8,16 @@ body{
   -ms-user-select: none;
   user-select: none;
   color: #55A9FF;
-  
+
   font-family: 'Open Sans', sans-serif;
   font-size: 15px;
   margin: 0px;
+}
+img {
+  border-radius: 25px;
+}
+pre {
+  font-family: inherit;
 }
 header {
   height: 29px;
